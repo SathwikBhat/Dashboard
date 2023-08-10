@@ -1,4 +1,8 @@
 # Dashboard
+![Order Fullfilment Dashboard](https://github.com/SathwikBhat/Dashboard/assets/141931631/7ef601f4-68da-466a-9e1c-588973f9d988)
+![Customer Service Dashboard](https://github.com/SathwikBhat/Dashboard/assets/141931631/7c691c00-6725-4c60-ad36-16c5fbdb7374)
+![Customer Service Dashboard](https://github.com/SathwikBhat/Dashboard/assets/141931631/480255d3-1b40-46c3-9e61-b923f89edfb2)
+
 This Dashboard Contains about Customer service Dashboard and Finance Dashboard, Order Fulfillment Dashboard about Pizza Hut
 dashboard Creted using Excel
 Customer Service Dashboard
@@ -25,3 +29,4 @@ Trend of Revenue Generated for each day
 Trend of Revenue Generated for Each Product
 Multiple Views for Online and Offline orders (using Slicers)
 ![image](https://github.com/SathwikBhat/Dashboard/assets/141931631/9599d63e-b28f-4a4b-979a-2ce9274fe5ff)
+(https://github.com/SathwikBhat/Dashboard/assets/141931631/285dea35-f32d-44b9-83cb-6c38c5fbe68e)
